@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: #000;
+}
+
+#doodlebug-fps {
+	position: absolute;
+	top: 0;
+	left: 0;
+	font-family: Helvertica, Verdana, Arial, sans-serif; 
+	font-size: 1em;
+	color: yellow;	
+}
